@@ -1,4 +1,4 @@
-# Friday Night Funkin' 
+# Friday Night Funkin' For Linux 
 
 Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
 
