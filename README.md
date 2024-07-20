@@ -1,6 +1,6 @@
 # Friday Night Funkin' For Linux 
-this is a unofficial port for Linux
-Friday Night Funkin' is a rhythm game. Built using HaxeFlixel for Ludum Dare 47.
+this is a unofficial port for Linux for Friday Night Funkin' is a rhythm game. 
+Built using HaxeFlixel for Ludum Dare 47.
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 
 - [Playable web demo on Newgrounds!](https://www.newgrounds.com/portal/view/770371)
