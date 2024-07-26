@@ -5,13 +5,13 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 
 # Getting Started
 
-To learn how to install the necessary dependencies and compile the game from source, please check out our [building the game](/docs/COMPILING.md) guide.
+The binaries are pre-compiled for Linux go to the releases area
 
 ## Credits on original project
 
 Full credits can be found in-game, or wherever the credits.json file is.
 
-# Programming
+## Programming
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Lead Programmer
 - [EliteMasterEric](https://twitter.com/EliteMasterEric) - Programmer
 - [MtH](https://twitter.com/emmnyaa) - Charting and Additional Programming
