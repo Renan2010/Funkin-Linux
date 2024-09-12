@@ -1,9 +1,9 @@
 # Friday Night Funkin' For Linux 
-This is a unofficial port for Linux for Friday Night Funkin' is a rhythm game. 
+*This is a unofficial port for Linux for Friday Night Funkin' is a rhythm game.*
 
 # Getting Started
 
-The binaries are pre-compiled for Linux go to the releases area
+The binaries are pre-compiled for Linux go to the [releases](https://github.com/Renan2010/Funkin-Linux/)
 
 ## Credits on original project
 
