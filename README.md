@@ -7,7 +7,7 @@ The binaries are pre-compiled for Linux go to the [releases](https://github.com/
 
 ## Credits on original project
 
-Full credits can be found in-game, or wherever the credits.json file is.
+Full credits can be found in-game, or in the `credits.json` file which is located [here](https://github.com/FunkinCrew/funkin.assets/blob/main/exclude/data/credits.json).
 
 ## Programming
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Lead Programmer
